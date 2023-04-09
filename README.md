@@ -1,11 +1,10 @@
-[![MasterHead](https://www.quotemaster.org/images/q/10699/1069951/i9.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Raneem</h1>
 <h3 align="center">A passionate learner</h3>
 
 
 - 🌱 I’m currently learning **C#,opencv**
-
+<img  src="https://www.quotemaster.org/images/q/10699/1069951/i9.png" height="200" width="350" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raneem alqadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raneem alqadi" height="30" width="40" /></a>
