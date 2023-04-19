@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Raneem</h1>
--<h3 align="center">Passionate learner and fresh graduate in Computer Engineering. Always seeking new challenges and opportunities to grow my skills and knowledge</h3>
+<h5 align="center">Passionate learner and fresh graduate in Computer Engineering. Always seeking new challenges and opportunities to grow my skills and knowledge</h5>
 
 
 - 🌱 I’m currently learning **C#,opencv**
