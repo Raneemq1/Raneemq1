@@ -3,7 +3,7 @@
 <h5 align="center">Passionate learner and fresh graduate in Computer Engineering. Always seeking new challenges and opportunities to grow my skills and knowledge</h5>
 
 
-- 🌱 I’m currently learning **C#,opencv**
+- 🌱 I’m currently learning **C#,computer vision with rasapberry pi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
